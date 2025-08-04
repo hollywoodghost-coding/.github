@@ -1,30 +1,30 @@
 # 👻 HollywoodGhost
 
-*Начинающий и амбициозный проект, предлагающий широкий спектр услуг:*
+*A promising and ambitious project offering a wide range of services:*
 
-### Наши услуги:
+### Our services:
 
-- 🛠️ **Разработка IT-продуктов и решений**
+- 🛠️ **IT product and solution development**
 
-Создаем инновационные IT-решения под ваши задачи.
+We create innovative IT solutions tailored to your needs.
 
-- 🌐 **Создание сайтов, веб-приложений и ботов**
+- 🌐 **Website, web application, and bot development**
 
-От лендингов до сложных веб-приложений и чат-ботов.
+From landing pages to complex web applications and chatbots.
 
-- 🎨 **Дизайн (UI/UX, графический, брендинг)**
+- 🎨 **Design (UI/UX, graphic, branding)**
 
-Разрабатываем уникальный дизайн, который выделит ваш бренд.
+We develop unique designs that will make your brand stand out.
 
-- ⚙️ **Системное администрирование**
+- ⚙️ **System administration**
 
-Обеспечиваем стабильную работу и безопасность ваших серверов.
+We ensure the stable operation and security of your servers.
 
-- 📈 **Маркетинг, продвижение и управление проектами**
+- 📈 **Marketing, promotion, and project management**
 
-Помогаем вашему проекту достичь максимальной видимости и эффективности.
+We help your project achieve maximum visibility and effectiveness.
 
-### Свяжитесь с нами:
+### Contact us:
 
 💬 Telegram: [@HollywoodGhost](https://t.me/HollywoodGhost_Project)
 
