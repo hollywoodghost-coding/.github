@@ -28,4 +28,4 @@ We help your project achieve maximum visibility and effectiveness.
 
 💬 Telegram: [@HollywoodGhost](https://t.me/HollywoodGhost_Project)
 
-💬 Contact me: [@barbos026](https://t.me/barbos026)
+💬 Contact me: [@qeuwueuwuwuwu](https://t.me/qeuwueuwuwuwu)
