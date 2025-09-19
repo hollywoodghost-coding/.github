@@ -19,6 +19,8 @@
 
 - 📈 **Маркетинг, продвижение и управление проектами**
 
+
+
 ### Our services:
 
 - 🛠️ **IT product and solution development**
@@ -41,6 +43,8 @@ We ensure the stable operation and security of your servers.
 
 We help your project achieve maximum visibility and effectiveness.
 
-💬 Telegram: [@HollywoodGhost](https://t.me/HollywoodGhost_Project)
+
+
+💬 Telegram: [@suicide_coding](https://t.me/suicide_coding)
 
 💬 Contact me: [@meow_crime](https://t.me/meow_crime)
